@@ -1,0 +1,63 @@
+<h1 align="center"> 
+ DEVinRestaurant 
+</h1>
+
+Projeto React criado utilizando [Vite](https://vitejs.dev/)
+
+## Primeiros passos
+
+Para clonar o repositório é preciso executar o comando
+
+```
+git clone git@github.com:DEVin-Intelbras/exercicios-react-modulo-1.git
+```
+
+Para instalar as dependencias é preciso executar o comando **npm install**:
+
+```
+// Acessar a pasta do projeto
+cd aula-semana-07
+
+// Instalar as dependencias do projeto
+npm install
+```
+
+## Comandos
+
+No diretório do projeto, você pode executar:
+
+### **dev**
+
+Executa o aplicativo no modo de desenvolvimento.
+
+```
+npm run dev
+```
+
+### **build**
+
+Cria o aplicativo para produção na pasta dist
+
+```
+npm run build
+```
+
+### **preview**
+
+Executa o aplicativo para produção da pasta dist
+
+```
+npm run preview
+```
+
+## Projeto Cardápio Restaurante
+
+O objetivo é a criação de uma aplicação web utilizando React.
+Basicamente se trata de um cardápio online que tem por objetivo apresentar as opções disponíveis de um restaurante, de forma categorizada.
+
+![Screenshot](https://github.com/tomas-cunha/DEVinRestaurant/blob/main/public/devinrestaurant.PNG)
+
+---
+
+![Screenshot](https://github.com/tomas-cunha/DEVinRestaurant/blob/main/public/mobile.PNG)
+
